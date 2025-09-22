@@ -1,0 +1,2 @@
+# QdrantEmbeddingApi
+Codebugged QdrantEmbeddingApi
